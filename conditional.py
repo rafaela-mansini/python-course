@@ -8,6 +8,6 @@ else:
         print ("x é igual a y")
     else:
         print("y e maior que x")
-while x < 10
+while x < 10:
     print(x)
     x += 1
