@@ -18,7 +18,7 @@ def compare_values(x, y):
             return "x is less than y"
 
 while x < 10:
-    print x,": ",compare_values(x, y)
+    print (x,": ",compare_values(x, y))
     compare_values(x, y)
     x += 1
 
